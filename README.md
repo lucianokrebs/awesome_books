@@ -8,7 +8,7 @@ Notes and quotes of what I read recently
 - [It Doesn't Have to Be Crazy at Work](#it-doesnt-have-to-be-crazy-at-work)
 - [Getting Real](#getting-real)
 
-### Rework
+### Rework ✔️
 
 - [Book](https://www.amazon.com.br/Rework-Jason-Fried/dp/0307463745)
 - [Notes](https://www.notion.so/lucianokrebs/notes-ReWork-3f9ba865b46d431684ba9e5a9207a757)
