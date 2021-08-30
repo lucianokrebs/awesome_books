@@ -4,7 +4,7 @@ Notes and quotes of what I read recently
 
 ## List of contents:
 
-- [ReWork](#rework)
+- [ReWork](#rework-) ✔️
 - [It Doesn't Have to Be Crazy at Work](#it-doesnt-have-to-be-crazy-at-work)
 - [Getting Real](#getting-real)
 
