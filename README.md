@@ -22,3 +22,8 @@ Notes and quotes of what I read recently
 
 - [Book](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812)
 - [Notes](https://lucianokrebs.notion.site/notes-Getting-Real-d6244d9b02c3487385316aa1962a54ed)
+
+### Remote
+
+- [Book](https://www.amazon.com.br/Remote-Office-Not-Required-English-ebook/dp/B00C0ALZ0W)
+- [Notes](https://lucianokrebs.notion.site/notes-Remote-8989d1f47dc04d3489c86aa10dfae94d)
